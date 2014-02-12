@@ -8,7 +8,7 @@
 #
 # Creation Date : 11-02-2014
 #
-# Last Modified : Wed 12 Feb 2014 08:59:39 AM MSK
+# Last Modified : Wed 12 Feb 2014 09:12:53 AM MSK
 #
 # Created By : plushka
 #
@@ -28,12 +28,12 @@ header = """
 <body>
 <table border="1" width="35%">
   <tr>
-    <td>СТРАНА</td>
-    <td>Золото</td>
-    <td>Серебро</td>
-    <td>Бронза</td>
-    <td>ИТОГ</td>
-    <td>МЕСТО</td>
+    <td>COUNTRY</td>
+    <td>GOLD</td>
+    <td>SILVER</td>
+    <td>BRONZE</td>
+    <td>MEDALS</td>
+    <td>TABLE PLACES</td>
   </tr>
 """
 
